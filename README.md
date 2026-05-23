@@ -85,4 +85,4 @@ To build industrial-grade computer vision systems that replicate real-world AI p
 
 ## Note
 
-This repository is intended for educational, research, and portfolio demonstration purposes.
+This repository is intended for educational and research purposes only
