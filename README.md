@@ -93,6 +93,3 @@ Industrial-Computer-Vision-Systems/
 
 ---
 
-# ⚠️ Disclaimer
-
-This repository is intended for educational and research purposes only.
