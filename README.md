@@ -1,25 +1,7 @@
 # 🚀 Industrial Computer Vision Systems
 
 Production-style industrial AI perception systems built using YOLOv8, OpenCV, PyTorch, and advanced real-time computer vision pipelines.
-## 🔥 Projects Included
 
-### 1. Smart Crowd Panic Detection System
-AI-powered surveillance system for:
-- Crowd monitoring
-- Panic detection
-- Motion analysis
-- Heatmap generation
-- Risk scoring
-
-### 2. Industrial Fire & Smoke Detection System
-Industrial hazard monitoring system featuring:
-- Fire detection
-- Smoke analysis
-- Safety zone visualization
-- Real-time alerts
-
-### 3. ADAS Perception Pipeline
-=======
 ---
 
 # 🔥 Projects Included
@@ -27,6 +9,7 @@ Industrial hazard monitoring system featuring:
 ## 1️⃣ Smart Crowd Panic Detection System
 
 AI-powered surveillance system for:
+
 - Crowd monitoring
 - Panic detection
 - Motion analysis
@@ -42,6 +25,7 @@ AI-powered surveillance system for:
 ## 2️⃣ Industrial Fire & Smoke Detection System
 
 Industrial hazard monitoring system featuring:
+
 - Fire detection
 - Smoke analysis
 - Hazard classification
@@ -49,25 +33,17 @@ Industrial hazard monitoring system featuring:
 - Real-time industrial alerts
 
 ### 📸 Demo
-![Fire Detection](screenshots/hazard-alert-dashboard.png)
+![Fire Detection](screenshots/fire-dashboard.png)
 
 ---
 
 ## 3️⃣ ADAS Perception Pipeline
 
->>>>>>> 9728338 (Organized screenshots and demo assets)
 Autonomous driving perception stack with:
+
 - Lane detection
 - Vehicle detection
 - Object tracking
-<<<<<<< HEAD
-- Depth estimation
-- Collision risk analysis
-
----
-
-## 🛠 Tech Stack
-=======
 - Collision risk analysis
 - Bird’s-eye-view visualization
 - Autonomous driving HUD
@@ -78,7 +54,6 @@ Autonomous driving perception stack with:
 ---
 
 # 🛠 Tech Stack
->>>>>>> 9728338 (Organized screenshots and demo assets)
 
 - Python
 - YOLOv8
@@ -87,40 +62,6 @@ Autonomous driving perception stack with:
 - NumPy
 - Supervision
 - MiDaS
-<<<<<<< HEAD
-- Streamlit
-
----
-
-## 📸 Project Screenshots
-
-### Crowd Panic Detection
-![Crowd](screenshots/crowd-system.png)
-
-### Fire & Smoke Detection
-![Fire](screenshots/fire-system.png)
-
-### ADAS System
-![ADAS](screenshots/adas-system.png)
-
----
-
-## 🎯 Features
-
-✅ Real-time AI pipelines  
-✅ Industrial surveillance systems  
-✅ Heatmaps & analytics  
-✅ GPU acceleration support  
-✅ Motion tracking  
-✅ Cinematic HUD overlays  
-✅ Autonomous driving perception  
-
----
-
-## ⚠️ Disclaimer
-
-This repository is intended for educational and research purposes only.
-=======
 - ByteTrack
 
 ---
@@ -155,4 +96,3 @@ Industrial-Computer-Vision-Systems/
 # ⚠️ Disclaimer
 
 This repository is intended for educational and research purposes only.
->>>>>>> 9728338 (Organized screenshots and demo assets)
